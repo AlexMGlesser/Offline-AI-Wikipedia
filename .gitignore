@@ -1,0 +1,26 @@
+# Data - never commit (hundreds of GB)
+*.bz2
+*.zim
+*.part
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.wiki
+*.tsv
+manifest.json
+completed_groups.json
+size_estimates.json
+download.log
+LICENSE-AND-ATTRIBUTION.txt
+english-articles/
+english-all-current-pages/
+english-full-history/
+kiwix-offline-reader/
+other-languages/
+organized/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
